@@ -1,1 +1,1 @@
-web: python Task_1/manage.py runserver 192.168.0.14:8000
+web: python Task_4/manage.py runserver 192.168.0.14:8000
